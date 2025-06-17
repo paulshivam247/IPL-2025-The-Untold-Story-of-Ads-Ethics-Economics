@@ -1,0 +1,9 @@
+demography_id,age_group,description
+1,10–15,"Pre-teen/early teens: early exposure, some FMCG, pan masala (non-tobacco)"
+2,16–19,"Teens: students, high fantasy gaming, pan masala, OTT, FMCG"
+3,20–24,"College/young adults: peak fantasy gaming, OTT, pan masala, FMCG"
+4,25–34,"Young professionals: high pan masala, fantasy gaming, OTT, FMCG"
+5,35–44,"Mid-age adults: pan masala, OTT, FMCG"
+6,45–54,"Older adults: pan masala (declining), OTT, FMCG"
+7,55–64,"Seniors: low pan masala, OTT, FMCG"
+8,65+,"Elderly: minimal pan masala, OTT, FMCG"

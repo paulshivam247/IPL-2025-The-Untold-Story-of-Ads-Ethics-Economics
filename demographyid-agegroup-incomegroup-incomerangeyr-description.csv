@@ -1,0 +1,9 @@
+demography_id,age_group,income_group,income_range (₹/yr),description
+1,10–15,N/A,N/A,"School-age, dependents"
+2,16–19,Low,Up to 3 lakh,"Students, part-time, entry-level"
+3,20–24,Low/Lower-Middle,1.5–6 lakh,"Entry-level, gig economy, early career"
+4,25–34,Lower/Middle,3–12 lakh,"Early professionals, rising incomes"
+5,35–44,Middle/Upper-Middle,6–25 lakh,"Peak earning, mid-career"
+6,45–54,Middle/Upper-Middle,6–25 lakh,"Senior professionals, plateauing"
+7,55–64,Lower/Middle,3–12 lakh,"Pre-retirement, income tapers"
+8,65+,Low,Up to 3 lakh,"Retired, pensioners, dependents"

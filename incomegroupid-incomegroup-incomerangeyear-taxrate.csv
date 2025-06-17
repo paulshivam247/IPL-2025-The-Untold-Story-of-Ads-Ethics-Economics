@@ -1,0 +1,8 @@
+income_group_id,income_group,income_range (inr/year),tax_rate (%)
+1,Low Income,"0 - 4,00,000",0
+2,Lower Middle Income,"4,00,001 - 8,00,000",5
+3,Middle Income,"8,00,001 - 12,00,000",10
+4,Upper Middle Income,"12,00,001 - 16,00,000",15
+5,Upper Income,"16,00,001 - 20,00,000",20
+6,Higher Income,"20,00,001 - 24,00,000",25
+7,High Net Worth,"Above 24,00,000",30 (+surcharge)
