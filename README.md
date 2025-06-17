@@ -54,7 +54,7 @@ How to Use
 
 Clone this repository to explore the detailed analysis, frameworks, and policy recommendations:
 
-git clone https://github.com/yourusername/IPL-Governance-Framework.git
+Dashboard: <iframe title="IPL_2025_Economic_Powerhouse_or_SocialGamble_3" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGFhMzdiNDItZjhhNC00NGQyLWJkOWMtZGZmZmNjYjFmYmZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Navigate through the folders to find specific insights or contribute to ongoing policy dialogues.
 
